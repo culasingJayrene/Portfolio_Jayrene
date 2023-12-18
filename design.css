@@ -159,7 +159,7 @@ nav ul li a:active{
     width: 100%;
     color: #463123;
 }
-.cv:hover{
+.dl:hover, .cv a:hover{
     background-color: #986B4B;
     color: #DAC4B5;
 }
